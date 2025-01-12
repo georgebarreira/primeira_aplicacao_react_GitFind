@@ -1,8 +1,13 @@
-# React + Vite
+# Aplicação GitFind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação simples de consumo da api do GitHub desenvolvida utilizando React e Vite para o curso React Developer da Dio.
 
-Currently, two official plugins are available:
+## Proposição do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Consumir api do github para proporcionar um mecanismo de busca de usuários do GitHub, exibindo em tela os seguintes dados do usuário e lista de repositórios dinamicamente.
+
+## Link do projeto online
+
+<div style="text-align:center;">
+<a href="https://georgebarreira.github.io/primeira_aplicacao_react_GitFind/"><img src="./src/assets/gitfind.PNG" alt="imagem do projeto"  /> </a>
+</div>
